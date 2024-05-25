@@ -1,6 +1,6 @@
 <h1 align="center">House Sales Dashboard Project Using Tableau</h1>
 <p align="center">
-<img src="Hr image.png">
+<img src="House.png">
 
 This repository contains a Tableau project focused on the analysis of house sales in King County, Washington. The dashboard provides interactive visualizations to help users explore and understand the trends and patterns in the housing market.
 

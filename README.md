@@ -8,9 +8,9 @@ This repository contains a Tableau project focused on the analysis of house sale
 The dashboard consists of several interactive elements and visualizations designed to offer comprehensive insights into house sales data. The key components of the dashboard include:
 
 # Filters:-
-• Date Selector: A calendar-based selector that allows users to filter the data by specific months and days.
-• Year Built: A slider to filter houses based on the year they were built (ranging from 1900 to 2015).
-• Square Footage: Sliders to filter properties based on living square footage and lot square footage.
+• Date Selector: A calendar-based selector that allows users to filter the data by specific months and days.<br>
+• Year Built: A slider to filter houses based on the year they were built (ranging from 1900 to 2015).<br>
+• Square Footage: Sliders to filter properties based on living square footage and lot square footage.<br>
 
 ## Visualizations:
 
@@ -27,22 +27,22 @@ Daily Average House Price Sales: A line chart displaying the average house price
 • Distribution of Bathrooms: A histogram showing the distribution of houses based on the number of bathrooms, aiding in the analysis of house features
 
 ## Project Features:
-• Interactive Filters: Users can dynamically filter the data using the date selector, year built slider, and square footage sliders to focus on specific subsets of the data.
-• Geographical Insights: The map visualization offers a clear view of how house sales are spread across different regions in King County.
-• Detailed Distributions: The histograms provide a detailed look at the distribution of prices, bedrooms, and bathrooms, helping to identify trends and patterns.
+• Interactive Filters: Users can dynamically filter the data using the date selector, year built slider, and square footage sliders to focus on specific subsets of the data.<br>
+• Geographical Insights: The map visualization offers a clear view of how house sales are spread across different regions in King County.<br>
+• Detailed Distributions: The histograms provide a detailed look at the distribution of prices, bedrooms, and bathrooms, helping to identify trends and patterns.<br>
 
 ## Dataset
 The dataset used for this dashboard includes information such as:
 
 • Sale price <br>
-• Sale date
-• Property location
-• Year built
-• Square footage (living and lot)
-• Number of bedrooms and bathrooms
-• Condition and view quality
+• Sale date <br>
+• Property location<br>
+• Year built<br>
+• Square footage (living and lot)<br>
+• Number of bedrooms and bathrooms<br>
+• Condition and view quality<br>
 
 ## Acknowledgements
-Data Source: House Sales From Kaggle
+Data Source: House Sales From Kaggle<br>
 Tools: Tableau
 

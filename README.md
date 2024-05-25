@@ -34,7 +34,7 @@ Daily Average House Price Sales: A line chart displaying the average house price
 ## Dataset
 The dataset used for this dashboard includes information such as:
 
-• Sale price
+• Sale price <br>
 • Sale date
 • Property location
 • Year built

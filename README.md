@@ -2,12 +2,15 @@
 <p align="center">
 <img src="House.png">
 
-This repository contains a Tableau project focused on the analysis of house sales in King County, Washington. The dashboard provides interactive visualizations to help users explore and understand the trends and patterns in the housing market.
+ Created an interactive Tableau dashboard featuring histograms, line charts, and heatmaps to visualize average house prices across regions.
+• Employed histograms to display the distribution of house prices within each region, providing insights into pricing variations.
+• Utilized line charts to illustrate trends in house prices over time, enabling users to identify temporal patterns and fluctuations.
+• Integrated heatmaps to visualize spatial patterns and correlations between house prices and geographic factors, facilitating deeper analysis of regional disparities and market dynamics.
 
 ## Dashboard Overview
 The dashboard consists of several interactive elements and visualizations designed to offer comprehensive insights into house sales data. The key components of the dashboard include:
 
-# Filters:-
+## Filters:-
 • Date Selector: A calendar-based selector that allows users to filter the data by specific months and days.<br>
 • Year Built: A slider to filter houses based on the year they were built (ranging from 1900 to 2015).<br>
 • Square Footage: Sliders to filter properties based on living square footage and lot square footage.<br>

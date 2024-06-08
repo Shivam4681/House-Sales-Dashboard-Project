@@ -48,4 +48,5 @@ The dataset used for this dashboard includes information such as:
 ## Acknowledgements
 Data Source: House Sales From Kaggle<br>
 Tools: Tableau <br>
-Tableau Public link :<a href="<a href="url">link text</a>">Click Here</a>
+Tableau Public link :<a href="https://public.tableau.com/views/Housesalesdashboardproject_17164513919440/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link">Click Here</a>
+
